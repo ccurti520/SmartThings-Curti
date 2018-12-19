@@ -13,7 +13,7 @@
  */
 
 metadata {
-	definition (name: "ZigBee Dimmer and Fan Control", namespace: "ccurti50", author: "Christopher Curti", runLocally: false, minHubCoreVersion: '000.019.00012', executeCommandsLocally: false) {
+	definition (name: "ZigBee Dimmer and Fan Control", namespace: "ccurti520", author: "Christopher Curti", runLocally: false, minHubCoreVersion: '000.019.00012', executeCommandsLocally: false) {
 		capability "Actuator"
 		capability "Configuration"
 		capability "Refresh"
